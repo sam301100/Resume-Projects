@@ -112,7 +112,7 @@ a:hover {
 }
 
 .card1.cardd:hover::before {
-     background: url(python.png);
+     background: url(icon.jpeg);
 }
 .card2.cardd:hover::before {
      background: url(python.png);
