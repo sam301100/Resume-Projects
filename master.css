@@ -112,30 +112,30 @@ a:hover {
 }
 
 .card1.cardd:hover::before {
-     background: url(icon.jpeg);
+     background: url(photo1.jpg);
 }
 .card2.cardd:hover::before {
-     background: url(python.png);
+     background: url(photo1.jpg);
 }
 .card3.cardd:hover::before {
-     background: url(python.png);
+     background: url(photo1.jpg);
 }
 
 .card4.cardd:hover::before {
-     background: url(python.png);
+     background: url(photo1.jpg);
 }
 .card5.cardd:hover::before {
-     background: url(python.png);
+     background: url(photo1.jpg);
 }
 .card6.cardd:hover::before {
-     background: url(python.png);
+     background: url(photo1.jpg);
 }
 
 .card7.cardd:hover::before {
-     background: url(python.png);
+     background: url(photo1.jpg);
 }
 .card8.cardd:hover::before {
-     background: url(python.png);
+     background: url(photo1.jpg);
 }
 
 @keyframes anim {
